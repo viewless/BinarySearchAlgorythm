@@ -1,0 +1,16 @@
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\bin\Debug\net5.0\BinarySearchAlgorythm.exe
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\bin\Debug\net5.0\BinarySearchAlgorythm.deps.json
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\bin\Debug\net5.0\BinarySearchAlgorythm.runtimeconfig.json
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\bin\Debug\net5.0\BinarySearchAlgorythm.runtimeconfig.dev.json
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\bin\Debug\net5.0\BinarySearchAlgorythm.dll
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\bin\Debug\net5.0\ref\BinarySearchAlgorythm.dll
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\bin\Debug\net5.0\BinarySearchAlgorythm.pdb
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\obj\Debug\net5.0\BinarySearchAlgorythm.csprojAssemblyReference.cache
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\obj\Debug\net5.0\BinarySearchAlgorythm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\obj\Debug\net5.0\BinarySearchAlgorythm.AssemblyInfoInputs.cache
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\obj\Debug\net5.0\BinarySearchAlgorythm.AssemblyInfo.cs
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\obj\Debug\net5.0\BinarySearchAlgorythm.csproj.CoreCompileInputs.cache
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\obj\Debug\net5.0\BinarySearchAlgorythm.dll
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\obj\Debug\net5.0\ref\BinarySearchAlgorythm.dll
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\obj\Debug\net5.0\BinarySearchAlgorythm.pdb
+D:\Developer\Default Projects Location\BinarySearchAlgorythm\BinarySearchAlgorythm\obj\Debug\net5.0\BinarySearchAlgorythm.genruntimeconfig.cache
